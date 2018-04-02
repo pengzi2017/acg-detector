@@ -4,7 +4,7 @@
 
 TODO...
 
-### Test page: 
+### Test page:
 This url can be used for testing extension's work:
 https://www.douban.com/group/topic/75311674/
 
@@ -21,14 +21,14 @@ https://www.douban.com/group/topic/75311674/
 
 ### Screenshots
 
-- [screenshot1](./icons/right_click.png) 
-
-- [screenshot2](./icons/click_icon.png) 
-
-- [screenshot3](./icons/options.png)
+<div align="center">
+	<img src="./icons/right_click.png" height="150">
+    <img src="./icons/click_icon.png" height="150">
+    <img src="./icons/options.png" height="150">
+</div>
 
 ## ![todo](./icons/002-script.png) TODO
- 
+
 - [x] Knead some code
 
 - [ ] Learn HTML/JS/CSS
