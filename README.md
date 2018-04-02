@@ -2,16 +2,21 @@
 
 ## ![intro](./icons/001-open-book.png) Introduction
 
-TODO...
+This browser extension helps get to video page based on the specific video ID.
+
+Since every video from [bilibili](http://bilibili.com), [acfun](http://acfun.cn), [niconico](http://www.nicovideo.jp/) and [pixiv.net](pixiv.net)(illustration instead) has a unique ID. It will be convenient to find video by its ID. Instead of copy ID and search in Google, [acg-detector](https://github.com/dyweb/acg-detector) let you open the video link directly.
 
 ### Test page:
-This url can be used for testing extension's work:
+
+This link can be used for testing the extension's work:
+
 https://www.douban.com/group/topic/75311674/
 
 ### Features
-- Select the video code and right click to the website.
-- Detect video codes and transform to hyperlink.
-- Click the extension's icon to see all the video codes.
+
+- Select the video ID and right click to open the video page in your browser.
+- Detect video IDs in a webpage and transform them to hyperlinks.
+- Click the extension's icon to see all video IDs in a webpage.
 
 ### Defects
 
@@ -21,13 +26,11 @@ https://www.douban.com/group/topic/75311674/
 
 ### Screenshots
 
-<div align="center">
-	<img src="./icons/right_click.png" height="150">
-    <img src="./icons/click_icon.png" height="150">
-    <img src="./icons/options.png" height="150">
-</div>
+![screenshot](./screenshots/screenshot_1.PNG)
+![screenshot](./screenshots/screenshot_3.PNG)
+![screenshot](./screenshots/screenshot_2.PNG)
 
-## ![todo](./icons/002-script.png) TODO
+## ![todo](./icons/002-script.png) Todo
 
 - [x] Knead some code
 
@@ -35,9 +38,9 @@ https://www.douban.com/group/topic/75311674/
 
 - [ ] Refactor the code
 
-- [ ] CSS for popup(toolbox for example)
+- [ ] Style of the popup(a toolbox for example)
 
-- [ ] Better recognition for ACG resources link
+- [ ] Better recognition for video IDs in webpage
 
 - [ ] More ideas...
 
