@@ -24,6 +24,12 @@ https://www.douban.com/group/topic/75311674/
 - Ugly UI design.
 - Lack of ideas...
 
+### Installation
+
+You can install the extension from Chrome Webstore:
+
+https://chrome.google.com/webstore/detail/acg-detector/kabdhpcjocieboohkggemdilfjgonhci
+
 ### Screenshots
 
 ![screenshot](./screenshots/screenshot_1.PNG)
